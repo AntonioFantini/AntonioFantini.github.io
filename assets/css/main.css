@@ -3105,4 +3105,20 @@
 				padding-left: 0;
 			}
 
+#get-in-touch-block {
+        display: block !important;
+    
+}
+
 	}
+
+#get-in-touch-block {
+    display: -webkit-flex; /* Safari */
+    display: flex;
+    display: -webkit-flex;
+    
+}
+
+#get-in-touch-block a{
+	margin-right: 30px !important;
+}
