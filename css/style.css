@@ -1718,6 +1718,10 @@ form label {
   z-index: 100;
 }
 @media screen and (max-width: 768px) {
+	#gtco-portfolio-list{
+		margin-top: 54px;
+	}
+
   #gtco-portfolio-list li a .case-studies-summary {
     bottom: 1em;
     left: 1em;
