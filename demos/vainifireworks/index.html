@@ -24,7 +24,7 @@ canvas {
 <!-- setup our canvas element -->
 <canvas id="canvas" width="1378" height="334">Canvas is not supported in your browser.</canvas>
 
-<div class="box fade-in two centered">
+<div class="box fade-in three centered">
          <h1>Vaini Fireworks</h1>
          <a href="#">Entra</a>
  </div>
@@ -37,7 +37,7 @@ window.requestAnimFrame = ( function() {
 				window.webkitRequestAnimationFrame ||
 				window.mozRequestAnimationFrame ||
 				function( callback ) {
-					window.setTimeout( callback, 1000 / 60 );
+					window.setTimeout( callback, 100 / 60 );
 				};
 })();
 
