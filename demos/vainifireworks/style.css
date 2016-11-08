@@ -103,7 +103,7 @@ position: relative;
     color: #ffdd00; */
      padding: 9px 0 0 170px;
      width: 100%;
-    font-size: 54px;
+    font-size: 64px;
     font-weight: normal;
     letter-spacing: -4px;
     /*text-transform: lowercase;
@@ -116,12 +116,12 @@ position: relative;
 } 
 .centered{
   top: -1150px;
-  margin-left: 48% !important;
+  margin-left: 46% !important;
   width:100% !important;
 }
 h1 {
     padding: 45px 0 0 40px;
-    font-size: 74px;
+    font-size: 84px;
     font-weight: normal;
     letter-spacing: -4px;
     /*text-transform: lowercase;
